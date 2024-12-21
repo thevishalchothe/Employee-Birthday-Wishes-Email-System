@@ -15,14 +15,12 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class EmailLog {
-		
+
 	@Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-    private String recipientEmail;
-    private String status; // SENT or FAILED
-    private LocalDateTime timestamp;
-    
-   
-    
+	private String recipientEmail;
+	private String status; // SENT or FAILED
+	private LocalDateTime timestamp;
+
 }

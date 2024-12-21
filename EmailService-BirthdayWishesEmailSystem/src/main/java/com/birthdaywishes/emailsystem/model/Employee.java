@@ -10,11 +10,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Employee {
-	
+
 	private Long id;
 	private String name;
 	private String email;
-	private LocalDate  birthday; // we can take LocalDate as String format for simplicity
-	
-	
+	private LocalDate birthday; // we can take LocalDate as String format for simplicity
+
 }

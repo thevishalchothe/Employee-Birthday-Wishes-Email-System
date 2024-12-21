@@ -8,4 +8,5 @@ import com.birthdaywishes.emailsystem.model.EmailLog;
 @Repository
 public interface EmailLogRepository extends JpaRepository<EmailLog, Long>  {
 
+	
 }
