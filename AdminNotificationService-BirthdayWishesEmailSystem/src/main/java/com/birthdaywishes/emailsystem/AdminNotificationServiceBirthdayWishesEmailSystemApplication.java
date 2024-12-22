@@ -13,9 +13,10 @@ public class AdminNotificationServiceBirthdayWishesEmailSystemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AdminNotificationServiceBirthdayWishesEmailSystemApplication.class, args);
 	}
+
 	@Bean
-	 public RestTemplate restTemplate() {
-	        return new RestTemplate();
-	    }
+	public RestTemplate restTemplate() {
+		return new RestTemplate();
+	}
 
 }
