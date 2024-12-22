@@ -9,6 +9,7 @@ enhance it, subject to the following:
 - Include the copyright and permission notice in all copies or significant
   portions of the project.
 
+**🚫 THE PROJECT IS PROVIDED "AS IS", WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED. 🚫**
 
 
 🔧 For inquiries or support, reach out to: vishalchothe134@gmail.com  
