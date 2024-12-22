@@ -112,3 +112,15 @@ We welcome contributions to the **Employee Birthday Wishes Email System!** Here'
 For issue reports, provide as many details as possible to help resolve them quickly.
 
 For assistance or inquiries, feel free to contact me at [vishalchothe134@gmail.com](mailto:vishalchothe134@gmail.com).
+
+---
+
+## **License** 📜
+
+Using an open-source license promotes professional software development, encouraging collaboration and contributions from the community.  
+See the [LICENSE](https://github.com/thevishalchothe) file for more information.
+
+---
+
+## **Thank You and Best Regards!** 🙏🎉
+
